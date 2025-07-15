@@ -1,5 +1,7 @@
 # SentinelTiles.jl
 
+[![Register](https://juliahub.com/docs/Registrator/stable/assets/badge.svg)](https://juliahub.com/ui/Registrator)
+
 Utilities for Geo-Referencing and Searching UTM Sentinel Tiles in Julia
 
 The Python equivalent of this package is [sentinel_tiles](https://github.com/JPL-Evapotranspiration-Algorithms/sentinel_tiles).
